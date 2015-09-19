@@ -22,7 +22,7 @@ vim .bashrc
 
 4) run the alias in .bashrc
 
-source:bashrc
+source .bashrc
 
 5)Testing
 
