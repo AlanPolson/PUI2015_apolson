@@ -4,7 +4,7 @@ To set up the alias in my Windows 8 machine, I took the following steps:
 
 1)Create environmental variable:
 
-export PUI2015="C:/\users/\christeen/\desktop/\Alan_Polson/\Other/\CUSP/\PUI2015
+export PUI2015="C:/\users/\christeen/\desktop/\Alan_Polson/\Other/\CUSP/\PUI2015"
 
 2) create a .bashrc file
 
