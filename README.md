@@ -28,4 +28,4 @@ source:bashrc
 
 Here is a screenshot of my alias in action:
 
-
+![The pic is not showing](Environment_Variable_Setup.png)
