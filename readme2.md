@@ -4,4 +4,4 @@
 Below is a picture of my alias in action
 
 
-![Alt text]("Environment_Variable_Setup.png")
+![Alt text](Environment_Variable_Setup.png)
