@@ -1,0 +1,1 @@
+I've done this assignment to the best of my understanding. My proess was to mirror Prof Bianca's work as closely as possible, since my stats theory is not very good. Adding these files to Git has proven to be a bit of a challenge, but I think I've got it.
