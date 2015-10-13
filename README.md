@@ -16,11 +16,13 @@ vim .bashrc
 
 	add the below line in vim: 
 
+    export PUI2015="C:/\users/\christeen/\desktop/\Alan_Polson/\Other/\CUSP/\PUI2015"
+
 	alias pui2015='cd $PUI2015'
 
 (if you are unfamiliar with vim, you basically add the line by pressing 'i', typing in the line, then pressing 'esc', followed by ':', 'w', 'q' and 'enter')
 
-4) run the alias in .bashrc
+4) .bashrc will load as soon as your bash runs, but if you don't want the hassle of closing bash n reoping it, we can just 'refresh' is by keying in the following command:
 
 source .bashrc
 
