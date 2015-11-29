@@ -2,7 +2,7 @@
 
 ## Part 1:
 
-My plot is from our summer bootcamp, where we had to re-create a given plot in python. The original file can be seen [here](Alan_Polson_Core_Challenge.py). An [ipython notebook](Assignment8.ipynb) in which I started modifying the plot is also included. If you wish to run these files, please remember t download the [citibike data for July 2014](https://s3.amazonaws.com/tripdata/201406-citibike-tripdata.zip) as well.
+My plot is from our summer bootcamp, where we had to re-create a given plot in python. The original file can be seen [here](Alan_Polson_Core_Challenge.py). An [ipython notebook](Assignment8.ipynb) in which I started modifying the plot is also included. If you wish to run these files, please remember to download the [citibike data for July 2014](https://s3.amazonaws.com/tripdata/201406-citibike-tripdata.zip) as well.
 The final plot looks like this:
 
 ![um... the plot's suppossed to appear here... Whoops!](Jul_2014_Visualization.png)
