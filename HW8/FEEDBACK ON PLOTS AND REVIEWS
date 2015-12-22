@@ -1,0 +1,45 @@
+excellent job on the reviews. detailed and insightful 10/10
+
+YOUR PLOT
+=========
+
+the visualization, which was done for the python bootcamp, has some weaknesses: the colored large bind overlayed th small bins cover and blend the colors that are hard to distinguish. the numbers are hard to read when they are across gray bins. the y axis non the bottom plot should be written in more understandable units, units of 10,000 for example. commas between three orders of mag (1,000 instead of 1000) enhance readability. overla of labels should be corrected *subscriber with the number)
+
+below are some notes about the plots you reviewd
+============
+
+Mutopalli
+==========
+this is a tableau style visualization, not a plot (in fact a full poster)
+
+as a poster it probably works well. 
+
+if considered as a visualization it is too busy, fonts are too small. 
+
+lets take the bottom panels as the plot: most panels cannot actually be judged because at the resolution at which i get the plots the legends are not readable.
+
+the maps seem very busy: the gray structure underlying the dots/areas is probably unnecessary
+
+even at full res i cannot imagine that the plots on the right would have axis labels and tick labels large enough. there is a lot of empty space on the left of the center right panel. probably it should be removed. 
+
+Cuspian
+=======
+missing x label
+
+y label too small
+
+size of points is unexplained
+
+the large number of points causes crowdedness and ibstruction. consider contour plots instead where the density of points is too high
+
+
+Yining Fan
+==========
+
+units missing in labels
+
+tick labels too small
+
+lines unexplained
+
+color indistinguishable for the 10% of the male population that is color blind
