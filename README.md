@@ -1,28 +1,27 @@
-# Windows 8 Environment setup instructions:
+# Windows Environment setup instructions:
 
-To set up the alias in my Windows 8 machine, I took the following steps:
+To set up the alias in my Windows machine, I took the following steps:
 
-1)Create environmental variable:
-
-export PUI2015="C:/\users/\christeen/\desktop/\Alan_Polson/\Other/\CUSP/\PUI2015"
-
-2) create a .bashrc file
+1) create a .bashrc file
 
 touch .bashrc
 
-3) edit the bashrc file and create an alias in it
+2) Edit the bashrc file
 
 vim .bashrc
 
-	add the below line in vim: 
+3) Add the below lines in vim: 
+	a) Create environmental variable
 
-    export PUI2015="C:/\users/\christeen/\desktop/\Alan_Polson/\Other/\CUSP/\PUI2015"
+	   export PUI2015="C:/\users/\christeen/\desktop/\Alan_Polson/\Other/\CUSP/\PUI2015"
 
-	alias pui2015='cd $PUI2015'
+	b) Create an alias pointing to this env variable
 
-(if you are unfamiliar with vim, you basically add the line by pressing 'i', typing in the line, then pressing 'esc', followed by ':', 'w', 'q' and 'enter')
+   	   alias pui2015='cd $PUI2015'
 
-4) .bashrc will load as soon as your bash runs, but if you don't want the hassle of closing bash n reoping it, we can just 'refresh' is by keying in the following command:
+Vim Commands: (if you are unfamiliar with vim, you basically add the line by pressing 'i', typing in the line, then pressing 'esc', followed by ':', 'w', 'q' and 'enter')
+
+4) .bashrc will load as soon as your bash runs, but if you don't want the hassle of closing bash n reoping it, we can just 'refresh' it by keying in the following command in bash:
 
 source .bashrc
 
