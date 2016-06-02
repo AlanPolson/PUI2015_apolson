@@ -11,6 +11,7 @@ touch .bashrc
 vim .bashrc
 
 3) Add the below lines in vim: 
+
 	a) Create environmental variable
 
 	   export PUI2015="C:/\users/\christeen/\desktop/\Alan_Polson/\Other/\CUSP/\PUI2015"
